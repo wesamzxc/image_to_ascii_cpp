@@ -1,4 +1,4 @@
-﻿# image_to_ascii_cpp
+﻿# image to ascii c++
 
 ## Running
 Simply run this in the terminal
